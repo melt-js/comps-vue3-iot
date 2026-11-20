@@ -11,6 +11,8 @@
         "IotDeviceStatus",
         "IotGauge",
         "IotMetricCard",
+        "IotWebTopoEdit",
+        "IotWebTopoPreview",
         "default",
         "dtlib"
       ]
