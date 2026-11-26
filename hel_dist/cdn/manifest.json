@@ -1,6 +1,6 @@
 {
   "name": "@melt-js/comps-vue3-iot",
-  "version": "2026.11.22",
+  "version": "2026.11.23",
   "entries": {
     "@melt-js/comps-vue3-iot": {
       "specifier": "@melt-js/comps-vue3-iot",
@@ -9,8 +9,14 @@
       "exports": [
         "App",
         "IotDeviceStatus",
+        "IotDiagnosticsPanel",
         "IotGauge",
+        "IotMessageInspector",
         "IotMetricCard",
+        "IotPlaybackControls",
+        "IotStateTimeline",
+        "IotTelemetryPlot",
+        "IotTopicTable",
         "IotWebTopoEdit",
         "IotWebTopoPreview",
         "default",
